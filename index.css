@@ -30,7 +30,7 @@
   margin: 0;
 }
 
-.discription p {
+.description p {
   margin: 0;
 }
 
@@ -57,12 +57,12 @@
   color: #a8a8a8;
 }
 
-.dis-head {
+.description-head {
   font-family: "Ubuntu", sans-serif;
   font-size: 35px;
 }
 
-.dis-body {
+.description-body {
   font-family: "Ubuntu", sans-serif;
   font-size: 18px;
 }
