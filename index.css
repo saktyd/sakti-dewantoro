@@ -46,14 +46,9 @@
   padding: 5em;
 }
 
-.nav-focus:hover {
+a:hover {
   background: rgb(255, 253, 253);
   cursor: pointer;
-  color: #a8a8a8;
-}
-
-.nav-focus:active {
-  background: rgb(255, 253, 253);
   color: #a8a8a8;
 }
 
@@ -96,4 +91,5 @@ footer {
 
 a {
   text-decoration: none;
+  color: #757474;
 }
